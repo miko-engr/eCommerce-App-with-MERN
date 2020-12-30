@@ -14,14 +14,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/timManas/MERN_eCommerceApp.git"
+    "url": ""
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/timManas/MERN_eCommerceApp/issues"
   },
-  "homepage": "https://github.com/timManas/MERN_eCommerceApp#readme",
+  "homepage": "",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "colors": "^1.4.0",
